@@ -1,0 +1,43 @@
+*{
+    font-family: cursive;
+}
+header{
+    background-position: center;
+    background-size: cover;
+height: 100vh;
+}
+
+.logo{
+    
+    width: 10vh;
+    height: 08vh;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+  }
+  
+  li {
+    float: right;
+  }
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    border: 1px solid black;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: rgb(206, 127, 238);
+    color:black;
+  }  
+  .name{
+    margin-top:12%;
+    
+font-size: large;
+  }
